@@ -6,8 +6,8 @@ A responsive landing page for a traveling website built using HTML and CSS.
 
 This project showcases a responsive landing page for a traveling website. The design is clean and modern, and it adapts to various screen sizes, ensuring a great user experience on both desktop and mobile devices.
 ## Link
-- **Website Link**: 
-- **Repository Link**: 
+- **Website Link**: aman9832.github.io/travel-landing-page/
+- **Repository Link**: https://github.com/aman9832/travel-landing-page/tree/main
 
 ## Features
 
